@@ -1,10 +1,5 @@
-// my own type_traits
+// my own metafunctions
 
-template<typename T,typename U>
-struct is_samess : std::false_type {};
-
-template<typename T>
-struct is_samess<T,T> : std::true_type {};
 
 
 template<typename T>
