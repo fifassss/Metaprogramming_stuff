@@ -8,4 +8,9 @@ My Metaprogramming stuff
 
 ----
  # Own type_traits
-- [X] [Own type_traits](https://github.com/fifassss/Metaprogramming_stuff/blob/main/meta_traits.cpp)
+- [X] [Own type_traits](https://github.com/fifassss/Metaprogramming_stuff/blob/main/my_own_type_traits.cpp)
+
+
+----
+
+-[X] [Own_metafunctions](https://github.com/fifassss/Metaprogramming_stuff/blob/main/metafunctions.cpp)
