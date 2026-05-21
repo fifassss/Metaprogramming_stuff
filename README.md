@@ -14,3 +14,7 @@ My Metaprogramming stuff
 ----
 # Own meta_functions
 - [X] [Own_metafunctions](https://github.com/fifassss/Metaprogramming_stuff/blob/main/metafunctions.cpp)
+
+----
+# Own type_list
+- [X] [type_list](https://github.com/fifassss/Metaprogramming_stuff/blob/main/simple_type_list.cpp)
