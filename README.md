@@ -22,4 +22,4 @@ My Metaprogramming stuff
 
 ----
 # Valiadric template
-- [X][Valiadric template](https://github.com/fifassss/Metaprogramming_stuff/blob/main/variadric_template.cpp)
+- [X] [Valiadric template](https://github.com/fifassss/Metaprogramming_stuff/blob/main/variadric_template.cpp)
