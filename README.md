@@ -18,3 +18,8 @@ My Metaprogramming stuff
 ----
 # Own type_list
 - [X] [type_list](https://github.com/fifassss/Metaprogramming_stuff/blob/main/simple_type_list.cpp)
+
+
+----
+# Valiadric template
+- [X][Valiadric template](https://github.com/fifassss/Metaprogramming_stuff/blob/main/variadric_template.cpp)
