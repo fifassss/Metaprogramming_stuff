@@ -1,3 +1,9 @@
+template<typename T>
+struct has_type
+{
+	using type = T;
+};
+
 template<typename...> // thats it type_list
 struct type_list {};
 
@@ -33,3 +39,28 @@ using front_t = typename front<LIST>::Type; // alias
 
 template<typename LIST>
 using pop_front_t = typename pop_front<LIST>::Type; // alias
+
+// at
+
+template<typename LIST,size_t index> // рекурсия
+struct at : has_type<typename at<pop_front_t<LIST>,index-1>::type> {};
+
+template<typename LIST> // для первого элемента
+struct at<LIST,0> : has_type<front_t<LIST>> {};
+
+template<typename LIST,size_t index>
+using at_t = typename at<LIST, index>::type;
+
+// at
+
+// back
+
+template<typename LIST> // рекурсия
+struct back : has_type<typename back<pop_front_t<LIST>>::type> {};
+
+template<typename T0> // для первого элемента
+struct back<type_list<T0>> : has_type<T0> {};
+
+template<typename LIST>
+using back_t = typename back<LIST>::type;
+
