@@ -23,3 +23,7 @@ My Metaprogramming stuff
 ----
 # Valiadric template
 - [X] [Valiadric template](https://github.com/fifassss/Metaprogramming_stuff/blob/main/variadric_template.cpp)
+
+----
+# Factorial_meta
+- [X] [Factorial_meta](https://github.com/fifassss/Metaprogramming_stuff/blob/main/factorial_meta.cpp)
