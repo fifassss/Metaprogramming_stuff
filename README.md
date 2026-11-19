@@ -27,3 +27,7 @@ My Metaprogramming stuff
 ----
 # Factorial_meta
 - [X] [Factorial_meta](https://github.com/fifassss/Metaprogramming_stuff/blob/main/factorial_meta.cpp)
+
+----
+# Fibonachii_meta
+- [X] [Fibonachii_meta](https://github.com/fifassss/Metaprogramming_stuff/blob/main/fibonachii_meta.cpp)
