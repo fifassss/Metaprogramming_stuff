@@ -31,3 +31,8 @@ My Metaprogramming stuff
 ----
 # Fibonachii_meta
 - [X] [Fibonachii_meta](https://github.com/fifassss/Metaprogramming_stuff/blob/main/fibonachii_meta.cpp)
+
+----
+# True / False types
+- [X] [True / False types](https://github.com/fifassss/Metaprogramming_stuff/blob/main/t_f_types.cpp)
+
