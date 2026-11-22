@@ -5,7 +5,7 @@ struct has_type
 };
 
 
-// if meta for supports meta_functions
+// if meta
 template<bool condition, typename THEN, typename ELSE>
 struct if_;
 
